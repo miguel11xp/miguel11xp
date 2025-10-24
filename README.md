@@ -26,8 +26,8 @@
 
   <div>
   <a href="https://github.com/miguel11xp">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=miguel11xp&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel11xp&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=miguel11xp&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel11xp&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
 
 <a href="https://github.com/antoniov7">

@@ -6,7 +6,13 @@
 
 - Informática avançada 🖥️
 
-## Contatos
+- C#
+
+- GIT
+
+- GITHUB 
+
+## Redes Sociais
 
 - [Linkedin](www.linkedin.com/in/miguel-viana-663896389)
 

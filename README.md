@@ -30,7 +30,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel11xp&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
 
-<a href="https://github.com/antoniov7">
+<a href="https://github.com/miguel11xp">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel11xp&theme=cobalt&hide_border=false&background=002147&ring=00BFFF&fire=00BFFF&currStreakLabel=FFFFFF"/>
   </a>
 
